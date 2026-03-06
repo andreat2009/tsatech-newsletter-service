@@ -1,0 +1,10 @@
+com/newproject/newsletter/service/NewsletterPreferenceService.class
+com/newproject/newsletter/events/DomainEvent.class
+com/newproject/newsletter/repository/NewsletterPreferenceRepository.class
+com/newproject/newsletter/dto/NewsletterPreferenceRequest.class
+com/newproject/newsletter/domain/NewsletterPreference.class
+com/newproject/newsletter/dto/NewsletterPreferenceResponse.class
+com/newproject/newsletter/NewsletterServiceApplication.class
+com/newproject/newsletter/config/SecurityConfig.class
+com/newproject/newsletter/controller/NewsletterPreferenceController.class
+com/newproject/newsletter/events/EventPublisher.class
